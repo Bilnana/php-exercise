@@ -13,7 +13,8 @@
 <?//php include "arrays.php"; ?>
 <?//php include "car-oop-exercise.php"; ?>
 <?//php include "inheritance.php"; ?>
-<?php include "methodsAndProperties.php"; ?>
+<?//php include "methodsAndProperties.php"; ?>
+<?php include "this.php"; ?>
 
 
 
