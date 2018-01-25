@@ -14,7 +14,9 @@
 <?//php include "car-oop-exercise.php"; ?>
 <?//php include "inheritance.php"; ?>
 <?//php include "methodsAndProperties.php"; ?>
-<?php include "this.php"; ?>
+<?//php include "this.php"; ?>
+<?//php include "arrays2.php"; ?>
+<?php include "bookstore.php"; ?>
 
 
 
