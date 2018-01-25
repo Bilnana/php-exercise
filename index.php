@@ -17,7 +17,8 @@
 <?//php include "this.php"; ?>
 <?//php include "arrays2.php"; ?>
 <?//php include "bookstore.php"; ?>
-<?php include "tank.php"; ?>
+<?//php include "tank.php"; ?>
+<?php include "coffemaker.php"; ?>
 
 
 
