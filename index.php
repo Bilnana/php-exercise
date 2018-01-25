@@ -16,7 +16,8 @@
 <?//php include "methodsAndProperties.php"; ?>
 <?//php include "this.php"; ?>
 <?//php include "arrays2.php"; ?>
-<?php include "bookstore.php"; ?>
+<?//php include "bookstore.php"; ?>
+<?php include "tank.php"; ?>
 
 
 
